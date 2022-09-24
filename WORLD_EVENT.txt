@@ -1,0 +1,22 @@
+Micah Jeffries
+Professor Humer
+CPE 203-03
+3/11/2020
+
+
+1) The world changing event is triggered by a mouse click.
+
+2) Three things will happen when the event is triggered. A 7 x 7 field of coral will spawn by modifying the 
+current background image that each position occupies. Next, any octopus within range of the field of coral will 
+transfrom into a shark. Finally, the event will spawn the newest addition to our world: Patrick Star!
+
+3) The octopuses which are transformed into sharks will now target crabs and will never go full. The sharks are 
+always hungry! The shark has its own unique animation where it open and closes its mouth eating every crab in 
+its path.
+
+4) Patrick Star, the newest entity in my world, targets and smashes all obstacles in the world until all the 
+obstacles are gone. His smash is so powerful, it will spawn a quake everytime he smashes through an obstacle. 
+Patrick also has his own unique animation where he spins around in a circle building up his obstacle smashing 
+powers.
+
+5) N/A

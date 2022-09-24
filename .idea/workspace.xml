@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36dadbab-ec62-4b1f-8c2f-d14d6fd0ff69" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YSBnU6np88hjCq2SsfkLnvclWj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Labs/lab6" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="VirtualWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36dadbab-ec62-4b1f-8c2f-d14d6fd0ff69" name="Default Changelist" comment="" />
+      <created>1582926281117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582926281117</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="305" y="40" key="#Project_Structure" timestamp="1584379854679">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state x="305" y="40" key="#Project_Structure/0.0.1422.760@0.0.1422.760" timestamp="1584379854679" />
+    <state x="56" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584384762302">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state x="56" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1422.760@0.0.1422.760" timestamp="1584384762302" />
+    <state x="505" y="137" key="FileChooserDialogImpl" timestamp="1584386540002">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state x="505" y="137" key="FileChooserDialogImpl/0.0.1422.760@0.0.1422.760" timestamp="1584386540002" />
+    <state x="205" y="0" key="SettingsEditor" timestamp="1584384678748">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state x="205" y="0" key="SettingsEditor/0.0.1422.760@0.0.1422.760" timestamp="1584384678748" />
+    <state x="154" y="2" key="new project wizard" timestamp="1584386543193">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state x="154" y="2" key="new project wizard/0.0.1422.760@0.0.1422.760" timestamp="1584386543193" />
+  </component>
+</project>
